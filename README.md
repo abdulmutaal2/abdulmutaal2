@@ -1,15 +1,9 @@
-kikke
-
-
-
-
-- 👋 Hi, I’m @abdulmutaal2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Abdul Mutaal
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Typescript and Phython
+- 📫 You can reach me on Discord
+- ⚡ Fun fact: ...Coding is boringgg
+  
 
 <!---
 abdulmutaal2/abdulmutaal2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
